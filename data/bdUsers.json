@@ -1,0 +1,16 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Juan2",
+      "apellido": "Méndez2",
+      "correo": "repoyito@gmail.com",
+      "id": 2
+    },
+    {
+      "id": 5,
+      "nombre": "DAVID",
+      "apellido": "puerto",
+      "correo": "dsp5502@gmail.com"
+    }
+  ]
+}
